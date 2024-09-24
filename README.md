@@ -12,4 +12,4 @@ The **LPU WiFi AutoConnector** automates the login process for LPU's WiFi networ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adityakeshav/lpu-wifi-autoconnector.git
+   git clone [https://github.com/Adityakeshav/lpu-wifi-autoconnector.git](https://github.com/Adityakeshav/LPU-WiFi-AutoConnector.git)
